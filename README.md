@@ -46,3 +46,16 @@ Future Enhancements
 - Timer-based quizzes.
 - API error handling improvements.
 
+---
+Screenshots
+
+-![2025-01-31 (1)](https://github.com/user-attachments/assets/acf1406f-6d4b-4439-bcae-2b66dc5ae335)
+-![2025-01-31](https://github.com/user-attachments/assets/ca44ea85-6c8a-4fa6-8cfa-303607ff86ca)
+
+---
+
+
+
+
+
+
