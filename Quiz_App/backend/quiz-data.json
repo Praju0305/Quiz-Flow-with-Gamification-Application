@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "answerText": "Paris", "isCorrect": true },
+        { "answerText": "London", "isCorrect": false },
+        { "answerText": "Berlin", "isCorrect": false },
+        { "answerText": "Madrid", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is 2 + 2?",
+      "answers": [
+        { "answerText": "3", "isCorrect": false },
+        { "answerText": "4", "isCorrect": true },
+        { "answerText": "5", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        { "answerText": "Earth", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": true },
+        { "answerText": "Jupiter", "isCorrect": false }
+      ]
+    }
+  ]
